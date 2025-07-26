@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zdhscdj
+- 👋 Hi, I’m Dongjie Chen @zdhscdj
 - 👀 I’m interested in Deep learning and computer science.
 - 🌱 I’m currently learning DNN.
 - 💞️ I’m looking to collaborate on ...
