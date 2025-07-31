@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dongjie Chen @zdhscdj
 - 👀 I’m interested in Deep learning and computer science.
-- 🌱 I’m currently learning DNN.
+- 🌱 I’m currently learning Embodied-Ai.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me E-mail:15184742190@163.com / chendongjie14@mails.ucas.ac.cn
 
